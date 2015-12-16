@@ -20,13 +20,7 @@ setting ``sharedAuthDomains``, e.g.:
 Each application will attempt to share its logged-in (or logged out) state with
 each of the listed domains.
 
-### Install
-
-Install with:
-
-    meteor add stolinski:shared-auth
-
 
 ### Why A Fork?
 
-The previous package relied on using IronRouter and hadn't seen an update in 11 months. 
+The previous package relied on using IronRouter and hadn't seen an update in 11 months. I wanted to make a version that was essentailly the same, with updated practices and the use of FlowRouter & FlowRouter Layout.
