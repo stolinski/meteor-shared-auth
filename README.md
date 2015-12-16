@@ -22,4 +22,4 @@ each of the listed domains.
 
 Install with:
 
-    meteor add admithub:shared-auth
+    meteor add stolinski:shared-auth
