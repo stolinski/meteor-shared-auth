@@ -1,3 +1,5 @@
+# README Incomplete
+
 ## Meteor Shared Auth
 
 For situations where you have *multiple meteor applications* running on
@@ -23,3 +25,8 @@ each of the listed domains.
 Install with:
 
     meteor add stolinski:shared-auth
+
+
+### Why A Fork?
+
+The previous package relied on using IronRouter and hadn't seen an update in 11 months. 
